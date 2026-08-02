@@ -115,8 +115,8 @@ If you add or change a route:
 
 Use the issue templates:
 
-- [Bug report](.github/ISSUE_TEMPLATE/bug_report.yml)
-- [Feature request](.github/ISSUE_TEMPLATE/feature_request.yml)
+- [Bug report](.github/ISSUE_TEMPLATE/bug_report.md)
+- [Feature request](.github/ISSUE_TEMPLATE/feature_request.md)
 
 Search existing issues first to avoid duplicates.
 
