@@ -18,7 +18,7 @@ By participating, you agree to follow our [Code of Conduct](./CODE_OF_CONDUCT.md
 ### Setup
 
 ```bash
-git clone https://github.com/Open-Source-Kigali/oskbackend.git
+git clone https://github.com/Open-Source-Kigali/osk-backend.git
 cd oskbackend
 npm install
 cp .env.example .env
